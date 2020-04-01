@@ -1,0 +1,26 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon entry.js -devmode -something 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "csv-parser": "^2.3.2",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "filenamify": "^4.1.0",
+    "images-pdf": "^1.0.3",
+    "nodemon": "^2.0.2",
+    "pdfkit": "^0.11.0",
+    "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
+    "valid-filename": "^3.1.0",
+    "xlsx": "^0.15.5"
+  }
+}

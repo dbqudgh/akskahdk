@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+a{
+    color: white;
+}
+
+button{
+    background-color: gray; 
+    border-color: gray;
+}

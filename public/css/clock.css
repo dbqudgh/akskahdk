@@ -1,0 +1,59 @@
+.js-clock{
+    font-size: 40px;
+    color: Gray;
+    background-color: black;
+    width:150px;
+    height:50px;
+    margin:0 auto;
+    
+}
+
+.js-showAm{
+    font-size: 20px;
+    color: Gray;
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    margin:0 auto;
+}
+
+body{
+    background-color: black;
+    color: Gray;
+}
+
+.span-style{
+    text-decoration:line-through;
+    text-decoration-color: white;
+    color: Gray;
+}
+
+::placeholder{
+    color: black;
+
+}
+
+button{
+    width: 15px;
+    height: 15px;
+    background-color: gray; 
+    border-color: gray;
+}
+
+#gs_tti50{
+    color: black;
+    background-color: black;
+}
+.gsc-input{
+    color: black;
+    background-color: black;
+    background: black;
+}
+element.style{
+    background: black;
+    color: black;
+    background-color: black;
+}
+.dontshow{
+    display: none;
+}
